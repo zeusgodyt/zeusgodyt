@@ -1,10 +1,12 @@
 <div align="center">
-    <img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" width="50%" />
-    # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; GIFs For Readme &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+    <img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" width="70%" />
+    <br>
+    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; GIFs For Readme &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
     <h1 align="center">Hi 👋, I'm Anurag</h1>
     <h3 align="center">A passionate frontend developer from India</h3>
     <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif">
 </div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeusgodyt&label=Profile%20views&color=0e75b6&style=flat" alt="zeusgodyt" /> </p>
 
