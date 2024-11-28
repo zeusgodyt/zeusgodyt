@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/zypher_07" target="blank"><img src="https://img.shields.io/twitter/follow/zypher_07?logo=twitter&style=for-the-badge" alt="zypher_07" /></a> </p>
 
-- 🌱 I’m currently learning **Flask,Django**
+- 🌱 I’m currently learning **Front End Devloper**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zeusgodyt?tab=repositories](https://github.com/zeusgodyt?tab=repositories)
 
